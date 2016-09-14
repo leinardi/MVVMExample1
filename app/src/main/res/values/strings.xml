@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM Example 1</string>
+    <string name="empty_list_message">No data available</string>
+    <string name="item_name">Item %1$d</string>
+    <string name="section_name">Section %1$d</string>
+    <string name="error_alert_dialog_title">An error occurred</string>
+</resources>
